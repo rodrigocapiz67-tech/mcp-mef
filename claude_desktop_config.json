@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "mef-siaf": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory",
+        "C:\\Users\\Asus\\mcp-mef",
+        "server.py"
+      ]
+    }
+  }
+}
